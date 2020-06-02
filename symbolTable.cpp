@@ -1,10 +1,6 @@
-/***************************************************************************
-*** NAME: Romancha Khatri												 ***
-*** CLASS:  CSC 446														 ***
-*** ASSIGNMENT:	#4														 ***	
-*** DUE DATE: 03/19/2018 8:00AM											 ***
-*** INSTRUCTOR:	G. HAMER												 ***
-***************************************************************************/
+/*
+*** NAME: Romancha Khatri								
+*/
 
 #include<iostream>
 #include<cstdlib>
